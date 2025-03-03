@@ -16,21 +16,6 @@ This Python project scrapes real-time weather data for Vancouver, stores it in a
 - **Pandas** (Data analysis)
 - **Matplotlib** (Data visualization)
 
-## 📂 Installation & Usage
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/yourusername/weather-scraper.git
-cd weather-scraper
-```
-### 2️⃣ Install Dependencies
-```bash
-pip install requests beautifulsoup4 pandas matplotlib sqlite3
-```
-### 3️⃣ Run the Script
-```bash
-python weather_scraper.py
-```
-
 ## 📊 Example Output
 ```
 ✅ Data Saved Successfully!
